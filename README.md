@@ -1,6 +1,6 @@
 # 3D-mallintamisen perusteet - IIM80110
 
-Opettaja: Arttu Maijanen
+Opettaja: Arttu Maijanen  
 Sähköposti: arttu.maijanen@jamk.fi  
 Työtila: D426
 
