@@ -20,10 +20,10 @@ Työtila: D426
 |6|12.10.2016|**Box modeling monimutkaisemmalla esineellä:** Tehdään jokin mutkikkaampi esine referenssikuvien pohjalta | |
 |7|19.10.2016|**Itseopiskeluviikko**  | |
 |8|26.10.2016|**Edge modeling:** Orgaanisempien esineiden mallinnus, kappaleiden yhdistely, sculpt mode | |
-|9|2.11.2016|**Innovaatioviikko** | |
-|10|9.11.2016|**Tekstuurit:** UV-mappaus, tekstuurieditori, 3D-maalaus| |
-|11|16.11.2016|**Partikkelit:** Erikoistehosteet, esineiden sijoittelu partikkeleilla, karva | |
-|12|23.11.2016|**Node editor + compositing:** Renderoidun kuvan jälkikäsittely | |
+|9|2.11.2016|**Tekstuurit:** UV-mappaus, tekstuurieditori, 3D-maalaus| |
+|10|9.11.2016|**Partikkelit:** Erikoistehosteet, esineiden sijoittelu partikkeleilla, karva | |
+|11|16.11.2016|**Node editor + compositing:** Renderoidun kuvan jälkikäsittely | |
+|12|23.11.2016|**Jokerikerta:** Katsotaan onko kerrattavaa tai keksitäänkö vielä jotain jännää, tehdään harjoitustöitä | |
 |13|30.11.2016|**Harjoitustöiden tekoa:** Vapaata työskentelyä, ohjausta saatavilla | |
 |14|7.12.2016|**Harjoitustöiden esittely ja palautus:** Harjoitustyöt palautetaan arvioitaviksi, opintojaksopalaute Asioon  | | 
 |15|14.12.2016|**Dedis harjoitustöiden palautukselle:** Harjoitustyöt Optimaan viimeistään tälloin, kiitos | |
