@@ -13,7 +13,7 @@ Työtila: D426
 | Kerta | Pvm | Sisältö | Slaidit |
 |:--:|:--:|:--|:--|
 |1|7.9.2016|**Käyttöliittymä + perusteet:** Tutustutaan Blenderiin ja sen käyttöliittymään, rakennetaan lumiukko yksinkertaisilla kappaleilla ja materiaaleilla | [01. Blenderin käyttöliittymä ja perusteet](https://docs.google.com/presentation/d/1bGzZKGwik5zn7HNcktr0B5mtx0pB0z_RTk9eEBCMIfI/edit?usp=sharing)|
-|2|14.9.2016|**Objektit + modifierit:** Parent-child -suhteet, vertexit/edget/facet, erilaiset geometriaa muokkaavat modifierit | |
+|2|14.9.2016|**Objektit + modifierit:** Parent-child -suhteet, vertexit/edget/facet, erilaiset geometriaa muokkaavat modifierit | [02. Objektien muokkaus ja modifierit ](https://docs.google.com/presentation/d/145Qi2aOI_jfvd-Yp-xNGjT8TxTUGAjM5iC7eiZQ_1MM/edit?usp=sharing)|
 |3|21.9.2016|**Valot, kamerat ja renderointi:** Erilaiset valot, kamera-asetukset, renderointi Blender Internalilla ja Cyclesillä | |
 |4|28.9.2016|**Materiaalit:** Materiaalien editointi Blender Internalille ja Cyclesille, tekstuurien generointi ja liittäminen materiaaleihin, RGB + alpha | |
 |5|5.10.2016|**Box modeling:** Perehdytään edit moden toimintoihin, extrude + inset + knife + bevel | |
