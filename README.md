@@ -16,7 +16,7 @@ Työtila: D426
 |2|14.9.2016|**Objektit + modifierit:** Parent-child -suhteet, vertexit/edget/facet, erilaiset geometriaa muokkaavat modifierit | [02. Objektien muokkaus ja modifierit ](https://docs.google.com/presentation/d/145Qi2aOI_jfvd-Yp-xNGjT8TxTUGAjM5iC7eiZQ_1MM/edit?usp=sharing)|
 |3|21.9.2016|**Valot, kamerat ja renderointi:** Erilaiset valot, kamera-asetukset, renderointi Blender Internalilla ja Cyclesillä | [03. Lamput, kamerat ja renderoiti](https://docs.google.com/presentation/d/1LW-IByiHrT1ELxDalmruJ-MwoOGR6k7OCS6THPT4QIs/edit?usp=sharing)|
 |4|28.9.2016|**Box modeling:** Perehdytään edit moden toimintoihin, extrude + inset + knife + bevel | [04. Box modeling](https://docs.google.com/presentation/d/1vOzrwpDtKp_UHlNQhiQRKqj7TslY-17RioQr8TDL_1o/edit?usp=sharing)|
-|5|5.10.2016| |**Tekstuurit:** UV-mappaus, tekstuurieditori, 3D-maalaus |
+|5|5.10.2016|**Tekstuurit:** UV-mappaus, tekstuurieditori, 3D-maalaus |
 |6|12.10.2016|**Box modeling monimutkaisemmalla esineellä:** Tehdään jokin mutkikkaampi esine referenssikuvien pohjalta | |
 |7|19.10.2016|**Itseopiskeluviikko**  | |
 |8|26.10.2016|**Edge modeling:** Orgaanisempien esineiden mallinnus, kappaleiden yhdistely, sculpt mode | |
