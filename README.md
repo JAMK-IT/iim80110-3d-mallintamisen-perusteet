@@ -17,7 +17,7 @@ Työtila: D426
 |3|21.9.2016|**Valot, kamerat ja renderointi:** Erilaiset valot, kamera-asetukset, renderointi Blender Internalilla ja Cyclesillä | [03. Lamput, kamerat ja renderoiti](https://docs.google.com/presentation/d/1LW-IByiHrT1ELxDalmruJ-MwoOGR6k7OCS6THPT4QIs/edit?usp=sharing)|
 |4|28.9.2016|**Box modeling:** Perehdytään edit moden toimintoihin, extrude + inset + knife + bevel | [04. Box modeling](https://docs.google.com/presentation/d/1vOzrwpDtKp_UHlNQhiQRKqj7TslY-17RioQr8TDL_1o/edit?usp=sharing)|
 |5|5.10.2016|**Tekstuurit:** UV-mappaus, tekstuurieditori, 3D-maalaus |[05. Tekstuurit](https://docs.google.com/presentation/d/1o0E7CwntuB6mfqCdm2qsVD03RhcF27BoBjDwchiX2IU/edit?usp=sharing) |
-|6|12.10.2016|**Box modeling monimutkaisemmalla esineellä:** Tehdään jokin mutkikkaampi esine referenssikuvien pohjalta | |
+|6|12.10.2016|**Valmistaudutaan harjoitustyöhön:** Harjoitustyön alustusta, kertausta, harjoitusta | |
 |7|19.10.2016|**Itseopiskeluviikko**  | |
 |8|26.10.2016|**Edge modeling:** Orgaanisempien esineiden mallinnus, kappaleiden yhdistely, sculpt mode | |
 |9|2.11.2016|**Materiaalit:** Materiaalien editointi Blender Internalille ja Cyclesille, tekstuurien generointi ja liittäminen materiaaleihin, RGB + alpha| |
