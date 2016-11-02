@@ -20,7 +20,7 @@ Työtila: D426
 |6|12.10.2016|**Valmistaudutaan harjoitustyöhön:** Harjoitustyön alustusta, kertausta, harjoitusta |[06. Harjoitustyö](https://docs.google.com/presentation/d/1YxM__2L9RKb8smuSmR9Z2KFwoePHCsbpnaxooE4Fd9c/edit?usp=sharing) |
 |7|19.10.2016|**Itseopiskeluviikko**  | |
 |8|26.10.2016|**Edge modeling:** Orgaanisempien esineiden mallinnus, kappaleiden yhdistely, sculpt mode |[07. Edge modeling ja sculpting](https://docs.google.com/presentation/d/1Oe0r8WTdHm9uMtfci_ZqvfSxYJnOB3B3YLU_Cdk-S-0/edit?usp=sharing) |
-|9|2.11.2016|**Materiaalit:** Materiaalien editointi Blender Internalille ja Cyclesille, tekstuurien generointi ja liittäminen materiaaleihin, RGB + alpha| |
+|9|2.11.2016|**Materiaalit:** Materiaalien editointi Blender Internalille ja Cyclesille, tekstuurien generointi ja liittäminen materiaaleihin, RGB + alpha|[08. Materiaalit](https://docs.google.com/presentation/d/1MUeY0CFtB_PdxkdOOWkmKTPL2ZUsxVRblVm3eCEiEI0/edit?usp=sharing) |
 |10|9.11.2016|**Partikkelit:** Erikoistehosteet, esineiden sijoittelu partikkeleilla, karva | |
 |11|16.11.2016|**Node editor + compositing:** Renderoidun kuvan jälkikäsittely | |
 |12|23.11.2016|**Jokerikerta:** Katsotaan onko kerrattavaa tai keksitäänkö vielä jotain jännää, tehdään harjoitustöitä | |
