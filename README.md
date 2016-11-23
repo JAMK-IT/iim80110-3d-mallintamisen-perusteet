@@ -23,7 +23,7 @@ Työtila: D426
 |9|2.11.2016|**Materiaalit:** Materiaalien editointi Blender Internalille ja Cyclesille, tekstuurien generointi ja liittäminen materiaaleihin, RGB + alpha|[08. Materiaalit](https://docs.google.com/presentation/d/1MUeY0CFtB_PdxkdOOWkmKTPL2ZUsxVRblVm3eCEiEI0/edit?usp=sharing) |
 |10|9.11.2016|**Partikkelit:** Erikoistehosteet, esineiden sijoittelu partikkeleilla, karva |[09. Partikkelit](https://docs.google.com/presentation/d/1P4qgHWMFpt23fHH3A4LMHgnIHiolxdd1jlXsr04dyf0/edit?usp=sharing) |
 |11|16.11.2016|**Node editor + compositing:** Renderoidun kuvan jälkikäsittely |[10. Kompositointi](https://docs.google.com/presentation/d/1FStSd076ZuOc08TJYTCTS_guufp6fuTPqRCkv5iv-xM/edit?usp=sharing) |
-|12|23.11.2016|**Jokerikerta:** Katsotaan onko kerrattavaa tai keksitäänkö vielä jotain jännää, tehdään harjoitustöitä | |
+|12|23.11.2016|**Animaatio:** Animaation perusteet | |
 |13|30.11.2016|**Harjoitustöiden tekoa:** Vapaata työskentelyä, ohjausta saatavilla | |
 |14|7.12.2016|**Harjoitustöiden esittely ja palautus:** Harjoitustyöt palautetaan arvioitaviksi, opintojaksopalaute Asioon  | | 
 |15|14.12.2016|**Dedis harjoitustöiden palautukselle:** Harjoitustyöt Optimaan viimeistään tälloin, kiitos | |
