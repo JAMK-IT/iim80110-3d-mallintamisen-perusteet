@@ -8,6 +8,10 @@ Työtila: D426
 - [Kurssin wiki](https://github.com/JAMK-IT/iim80110-3d-mallintamisen-perusteet/wiki)
 - [JAMK-IT Slack](https://jamk-it.slack.com)
 
+## Korvaavat tehtävät harjoitustyön palautukselle
+
+[Tämän linkin](https://docs.google.com/presentation/d/1LQdJDOBdbZP3mU1JPwQ6UD4bXWrj06ZQ199XYxGBfBo/edit?usp=sharing) takana olevat tehtävät tekemällä ja Optiman harjoitustyölaatikkoon palauttamalla voidaan suorittaa kurssi arvosanalla 1 harjoitustyön puuttuessa. 
+
 ## Aikataulu
 
 | Kerta | Pvm | Sisältö | Slaidit |
