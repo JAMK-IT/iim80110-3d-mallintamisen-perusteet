@@ -11,6 +11,8 @@ Työtila: D426
 
 ## Aikataulu
 
+Huom! Tunnit alkavat klo 16:30 johtuen päällekkäisyyksistä valinnaisen matematiikan kanssa!
+
 | Kerta | Pvm | Sisältö | Slaidit |
 |:--:|:--:|:--|:--|
 |1|5.9.2017|**Käyttöliittymä + perusteet:** Tutustutaan Blenderiin ja sen käyttöliittymään, rakennetaan lumiukko yksinkertaisilla kappaleilla ja materiaaleilla | [01. Blenderin käyttöliittymä ja perusteet](https://docs.google.com/presentation/d/1TnnvM807S7216sEWjl2uZ2JjIdrDx3kMTgms1pP9AzU/edit?usp=sharing)|
