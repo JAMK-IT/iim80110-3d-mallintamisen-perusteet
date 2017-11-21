@@ -26,4 +26,5 @@ Huom! Tunnit alkavat klo 16:30 johtuen päällekkäisyyksistä valinnaisen matem
 |9|7.11.2017|**Partikkelit:** Partikkelisysteemit, objektin toistaminen parvena ja karvaefektit | [09. Partikkelit](https://drive.google.com/open?id=1NckV14Ga9cUq3eu3CCK401F_QpSa3ezF1ZuWqZx_JU8)|
 |10|14.11.2017|**Materiaalit:** Materiaalit ja niiden ominaisuudet syvemmin kuvailtuna, Node Editorilla luodut monimutkaisemmat materiaalit | <ul><li>[10. Materiaalit](https://drive.google.com/open?id=1y5agDmHv41VtauV7Nqtz7q1HKk7pOLQSOb5u9t3trII)</li><li>[uv-kattila.blend](https://drive.google.com/open?id=1wPGysgGTUfTILO9vRpAgTydSQoee3njW)</li></ul>|
 |11|21.11.2017|**Kompositointi:** Renderoidun kuvan jälkikäsittely Node Editorilla | <ul><li>[11. Kompositointi](https://drive.google.com/open?id=16--hAWhxTTc1tcr2R3fgdqcxD6xkz6WszPABJxSzUFg)</li><li>[esikaupunki.blend](https://drive.google.com/open?id=1ySj-sGfs2SfT7UmZRwNjanvujSpxZl_t)</li><li></li>[Substance Painter](https://drive.google.com/open?id=1552ulBt4gooOnTpVEATPowID8iPntab6eDEOxO5vDkA)</ul>|
-|15|xx.12.2017|**Dedis harjoitustöiden palautukselle:** Harjoitustyöt Optimaan viimeistään tälloin, kiitos | |
+|15|12.12.2017|**Harjoitustyöseminaari:** Vilkaistaan harjoitustöitä ja käydään neuvottelua sopivista arvosanoista | |
+|xx|29.12.2017|**Harjoitustyön palautuksen deadline:** Harjoitustyöt Optimaan viimeistään tälloin, kiitos | |
